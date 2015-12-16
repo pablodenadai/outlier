@@ -2,6 +2,8 @@
 
 In statistics, an outlier is a data point that significantly differs from the other data points in a sample. Often, outliers in a data set can alert statisticians to experimental abnormalities or errors in the measurements taken, which may cause them to omit the outliers from the data set.
 
+![Outliner](http://i.imgur.com/GXlRL22.jpg)
+
 ## Getting Started
 
 Install the module with: `npm install outlier`.
